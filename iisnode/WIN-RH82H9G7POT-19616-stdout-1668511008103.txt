@@ -1,0 +1,376 @@
+15/11/2022
+2023-01-15T11:16:51.289Z
+listening
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m2.511 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.388 ms - 0[0m
+[0mOPTIONS /users/getAllVenderFullDetails [32m204 [0m0.279 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.848 ms - 0[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.438 ms - 0[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.787 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.200 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.292 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.182 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.181 ms - 0[0m
+[0mOPTIONS /admin/UpdateCarModel [32m204 [0m0.216 ms - 0[0m
+[0mOPTIONS /admin/getAllCarBrand [32m204 [0m0.195 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.162 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.175 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.153 ms - 0[0m
+[0mOPTIONS /admin/getCarModelByCarBrandId [32m204 [0m0.142 ms - 0[0m
+newDate 11/15/2022
+DB connect
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m4836.791 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m4977.731 ms - 54[0m
+15/11/2022
+not found
+not found
+11/14/2022
+not found
+not found
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+08/11/2022
+[
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022',
+  '08/11/2022'
+]
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '15/11/2022', '14/11/2022', '13/11/2022',
+  '12/11/2022', '11/11/2022', '10/11/2022',
+  '09/11/2022', '08/11/2022', '07/11/2022',
+  '06/11/2022', '05/11/2022', '04/11/2022',
+  '03/11/2022', '02/11/2022', '01/11/2022',
+  '31/10/2022', '30/10/2022', '29/10/2022',
+  '28/10/2022', '27/10/2022', '26/10/2022',
+  '25/10/2022', '24/10/2022', '23/10/2022',
+  '22/10/2022', '21/10/2022', '20/10/2022',
+  '19/10/2022', '18/10/2022', '17/10/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[]
+[0mPOST /users/getTotalEarning [32m200 [0m5011.058 ms - 112[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m5038.944 ms - 54[0m
+[0mPOST /users/getAllVenderFullDetails [32m200 [0m5044.510 ms - 500[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m213.558 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m236.469 ms - 224[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m223.512 ms - 348[0m
+[0mPOST /admin/getAllCarBrand [32m200 [0m247.727 ms - 2918[0m
+[0mPOST /users/getAllLength [32m200 [0m5438.794 ms - 922[0m
+[0mPOST /admin/UpdateCarModel [32m200 [0m219.498 ms - 50[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m207.097 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m202.348 ms - 54[0m
+[0mOPTIONS /admin/getCarModelByCarBrandId [32m204 [0m0.182 ms - 0[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m220.364 ms - 224[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m219.007 ms - 54[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m213.116 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m1293.341 ms - 348[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m205.847 ms - 5366[0m
+[0mGET /http:/realmotorsbackend.itfuturz.com/uploads/noImage.png [33m404 [0m19.793 ms - 1036[0m
+[0mOPTIONS /admin/getCarModelByCarBrandId [32m204 [0m0.429 ms - 0[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m208.464 ms - 3260[0m
+[0mOPTIONS /admin/getCarModelByCarBrandId [32m204 [0m0.275 ms - 0[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m214.399 ms - 1941[0m
+[0mOPTIONS /admin/getCarModelByCarBrandId [32m204 [0m0.154 ms - 0[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m238.283 ms - 483[0m
+[0mGET /http:/realmotorsbackend.itfuturz.com/uploads/noImage.png [33m404 [0m4.059 ms - 1036[0m
+[0mOPTIONS /admin/getCarModelByCarBrandId [32m204 [0m0.189 ms - 0[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m216.536 ms - 54[0m
+[0mOPTIONS /admin/getCarModelByCarBrandId [32m204 [0m0.149 ms - 0[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m202.691 ms - 837[0m
+[0mGET /http:/realmotorsbackend.itfuturz.com/uploads/noImage.png [33m404 [0m2.834 ms - 1036[0m
+[0mOPTIONS /admin/getCarModelByCarBrandId [32m204 [0m0.223 ms - 0[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m213.707 ms - 1743[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.147 ms - 0[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.192 ms - 0[0m
+[0mOPTIONS /users/getAllVenderFullDetails [32m204 [0m0.135 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.121 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.115 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.177 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.134 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m7.982 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.485 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.235 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.135 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.773 ms - 0[0m
+newDate 11/15/2022
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.123 ms - 0[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m202.800 ms - 54[0m
+15/11/2022
+not found
+not found
+11/14/2022
+not found
+not found
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+08/11/2022
+[
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022',
+  '08/11/2022'
+]
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '15/11/2022', '14/11/2022', '13/11/2022',
+  '12/11/2022', '11/11/2022', '10/11/2022',
+  '09/11/2022', '08/11/2022', '07/11/2022',
+  '06/11/2022', '05/11/2022', '04/11/2022',
+  '03/11/2022', '02/11/2022', '01/11/2022',
+  '31/10/2022', '30/10/2022', '29/10/2022',
+  '28/10/2022', '27/10/2022', '26/10/2022',
+  '25/10/2022', '24/10/2022', '23/10/2022',
+  '22/10/2022', '21/10/2022', '20/10/2022',
+  '19/10/2022', '18/10/2022', '17/10/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[0mPOST /users/getAllVenderFullDetails [32m200 [0m202.256 ms - 500[0m
+[]
+[]
+[0mPOST /users/getTotalEarning [32m200 [0m254.380 ms - 112[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m238.550 ms - 54[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m236.297 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m208.745 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m213.012 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m216.759 ms - 224[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m209.811 ms - 224[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m211.380 ms - 348[0m
+[0mPOST /users/getAllLength [32m200 [0m616.208 ms - 922[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m213.678 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m215.375 ms - 348[0m

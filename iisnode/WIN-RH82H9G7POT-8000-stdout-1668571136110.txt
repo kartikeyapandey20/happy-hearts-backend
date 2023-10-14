@@ -1,0 +1,37 @@
+16/11/2022
+2023-01-16T03:58:57.949Z
+listening
+DB connect
+[0mPOST /users/getAllBanner [32m200 [0m5088.511 ms - 577[0m
+
+noo code
+undefined
+[0mPOST /users/getUserBookingCompleteStatus [32m200 [0m5220.153 ms - 83[0m
+[0mPOST /admin/getServiceCategory [32m200 [0m5275.709 ms - 451[0m
+[]
+[0mPOST /users/getAddToCart_v1 [32m200 [0m5984.805 ms - 243[0m
+[0mPOST /users/getUserSelectedCar [32m200 [0m6264.112 ms - 54[0m
+[0mPOST /users/getUserSelectedCar [32m200 [0m208.482 ms - 54[0m
+
+noo code
+[]
+[0mPOST /users/getAddToCart_v1 [32m200 [0m971.136 ms - 243[0m
+[0mPOST /users/getUserSelectedCar [32m200 [0m193.066 ms - 54[0m
+[0mPOST /admin/getServiceCategory [32m200 [0m207.089 ms - 451[0m
+[0mPOST /users/getAllBanner [32m200 [0m215.151 ms - 577[0m
+
+noo code
+[]
+[0mPOST /users/getAddToCart_v1 [32m200 [0m1042.951 ms - 243[0m
+[0mPOST /admin/getServiceCategory [32m200 [0m193.027 ms - 451[0m
+[0mPOST /users/getUserSelectedCar [32m200 [0m201.980 ms - 54[0m
+[0mPOST /users/getAllBanner [32m200 [0m193.638 ms - 577[0m
+[0mPOST /users/getAllNotification [32m200 [0m204.518 ms - 54[0m
+
+noo code
+[]
+[0mPOST /users/getUserSelectedCar [32m200 [0m193.199 ms - 54[0m
+[0mPOST /admin/getServiceCategory [32m200 [0m205.446 ms - 451[0m
+[0mPOST /users/getAllBanner [32m200 [0m204.891 ms - 577[0m
+[0mPOST /users/getAddToCart_v1 [32m200 [0m979.067 ms - 243[0m
+[0mPOST /users/updateUserBookingCompleteStatus_v5 [32m200 [0m406.921 ms - 609[0m

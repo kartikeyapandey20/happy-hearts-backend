@@ -1,0 +1,3407 @@
+16/11/2022
+2023-01-16T04:36:05.764Z
+listening
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m1.816 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.250 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.120 ms - 0[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.104 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.117 ms - 0[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.105 ms - 0[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.129 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.112 ms - 0[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.127 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.104 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.107 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.121 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.175 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.164 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.161 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.168 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.127 ms - 0[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.131 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.149 ms - 0[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.196 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.130 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.151 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.170 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.127 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.218 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.244 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.177 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.152 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.155 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.201 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.131 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.167 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.293 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.131 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.157 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.361 ms - 0[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.159 ms - 0[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.148 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.162 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.465 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.119 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.125 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.147 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.126 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.122 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.126 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.129 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.143 ms - 0[0m
+newDate 11/16/2022
+DB connect
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m4623.324 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m4765.514 ms - 54[0m
+newDate 11/16/2022
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m4769.397 ms - 54[0m
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[0mPOST /users/getTotalEarning [32m200 [0m238.679 ms - 116[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m197.760 ms - 54[0m
+[0mPOST /users/getAllLength [32m200 [0m5252.414 ms - 922[0m
+[0mPOST /users/getAllLength [32m200 [0m652.150 ms - 922[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m198.318 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m201.173 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m195.192 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m204.822 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.093 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.507 ms - 348[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m206.603 ms - 224[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m198.566 ms - 224[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m5792.240 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+newDate 11/16/2022
+[0mPOST /admin/getBookingHistory [32m200 [0m200.656 ms - 348[0m
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[0mPOST /users/getTotalEarning [32m200 [0m5854.815 ms - 116[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.476 ms - 54[0m
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[0mPOST /users/getTotalEarning [32m200 [0m236.937 ms - 116[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m232.429 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m199.683 ms - 54[0m
+[0mPOST /users/getAllLength [32m200 [0m574.064 ms - 922[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m197.746 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m206.316 ms - 348[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m191.637 ms - 54[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m200.316 ms - 224[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m200.284 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m207.091 ms - 224[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m199.840 ms - 54[0m
+newDate 11/16/2022
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.977 ms - 348[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m201.699 ms - 224[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m199.418 ms - 224[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m206.004 ms - 54[0m
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /users/getTotalEarning [32m200 [0m223.670 ms - 116[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m237.200 ms - 348[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m207.133 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m201.561 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m207.327 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m198.698 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m206.132 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m199.098 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m206.946 ms - 348[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m202.046 ms - 224[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m194.089 ms - 224[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.824 ms - 348[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m208.268 ms - 54[0m
+[0mPOST /users/getAllLength [32m200 [0m591.892 ms - 922[0m
+[0mOPTIONS /users/getBooking_v1 [32m204 [0m0.221 ms - 0[0m
+[0mPOST /users/getBooking_v1 [32m200 [0m204.084 ms - 666[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.135 ms - 0[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m201.044 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m201.932 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m200.876 ms - 54[0m
+[0mOPTIONS /admin/getAllBanner [32m204 [0m0.123 ms - 0[0m
+[0mOPTIONS /admin/getAllBanner [32m204 [0m0.153 ms - 0[0m
+[0mPOST /admin/getAllBanner [32m200 [0m203.280 ms - 577[0m
+[0mPOST /admin/getAllBanner [32m200 [0m205.171 ms - 577[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.144 ms - 0[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.123 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.300 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.152 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.130 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.138 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.253 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.241 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.148 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.208 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.133 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.143 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.137 ms - 0[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.104 ms - 0[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.111 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.157 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.145 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.138 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.123 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.363 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.242 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.334 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.243 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.238 ms - 0[0m
+newDate 11/16/2022
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m191.440 ms - 54[0m
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[]
+[]
+[0mPOST /users/getTotalEarning [32m200 [0m231.852 ms - 116[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m226.107 ms - 54[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m221.415 ms - 54[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m218.409 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m198.789 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m203.394 ms - 348[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m194.934 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m202.209 ms - 224[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.970 ms - 224[0m
+newDate 11/16/2022
+[0mPOST /users/getAllLength [32m200 [0m616.406 ms - 922[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m192.998 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m206.656 ms - 54[0m
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[]
+[0mPOST /users/getTotalEarning [32m200 [0m226.209 ms - 116[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m224.831 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m206.311 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m191.067 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m198.235 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.328 ms - 224[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m208.056 ms - 348[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m206.575 ms - 348[0m
+[0mPOST /users/getAllLength [32m200 [0m602.131 ms - 922[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m192.535 ms - 224[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.199 ms - 54[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.139 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.129 ms - 0[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m196.008 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m202.486 ms - 54[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.139 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.134 ms - 0[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m191.210 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m199.676 ms - 348[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.149 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.127 ms - 0[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m191.036 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m199.749 ms - 348[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.289 ms - 0[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.165 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.183 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.205 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.146 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.148 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.134 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.136 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.130 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.216 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.130 ms - 0[0m
+newDate 11/16/2022
+[0mOPTIONS /users/getAllLength [32m204 [0m0.152 ms - 0[0m
+newDate 11/16/2022
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.132 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.125 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.126 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.166 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.214 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.150 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.259 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.143 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.104 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.176 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.225 ms - 0[0m
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[0mPOST /users/getTotalEarning [32m200 [0m219.313 ms - 116[0m
+[0mPOST /users/getTotalEarning [32m200 [0m249.554 ms - 116[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m205.789 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.917 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m199.526 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m199.777 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m190.949 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m206.435 ms - 348[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.214 ms - 224[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.850 ms - 54[0m
+[0mPOST /users/getAllLength [32m200 [0m629.725 ms - 922[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m192.045 ms - 224[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m201.064 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m207.311 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m207.657 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m193.887 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m200.559 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m199.352 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m206.258 ms - 348[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.603 ms - 224[0m
+[0mPOST /users/getAllLength [32m200 [0m594.976 ms - 922[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m204.421 ms - 224[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m192.523 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m203.266 ms - 348[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.143 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.131 ms - 0[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m191.019 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m201.557 ms - 348[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.138 ms - 0[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.121 ms - 0[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m195.928 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m200.355 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m210.653 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m214.756 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m219.970 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m217.616 ms - 348[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m215.841 ms - 224[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m223.775 ms - 224[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m206.388 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m208.512 ms - 348[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.139 ms - 0[0m
+newDate 11/16/2022
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.416 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m205.223 ms - 54[0m
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[]
+[0mPOST /users/getTotalEarning [32m200 [0m236.260 ms - 116[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m230.162 ms - 54[0m
+[0mPOST /users/getAllLength [32m200 [0m578.887 ms - 922[0m
+[0mPOST /users/getAllLength [32m200 [0m623.992 ms - 922[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m198.283 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m200.232 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.442 ms - 348[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m208.034 ms - 224[0m
+newDate 11/16/2022
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.540 ms - 224[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m192.670 ms - 54[0m
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /users/getTotalEarning [32m200 [0m234.794 ms - 116[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m228.036 ms - 348[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.137 ms - 0[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.106 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.111 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.096 ms - 0[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.165 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.126 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.145 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.152 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.122 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.332 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.103 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.144 ms - 0[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.137 ms - 0[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.122 ms - 0[0m
+newDate 11/16/2022
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m191.060 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m199.099 ms - 54[0m
+[]
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m201.091 ms - 54[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m204.656 ms - 54[0m
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[0mPOST /users/getTotalEarning [32m200 [0m234.893 ms - 116[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m200.581 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m209.259 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m199.339 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m199.318 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m191.629 ms - 54[0m
+[0mPOST /users/getAllLength [32m200 [0m613.541 ms - 922[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.954 ms - 348[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m201.670 ms - 224[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m194.695 ms - 224[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.913 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m199.699 ms - 348[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m207.372 ms - 224[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m192.856 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.984 ms - 54[0m
+newDate 11/16/2022
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m201.282 ms - 348[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m201.524 ms - 348[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.665 ms - 224[0m
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[0mPOST /users/getTotalEarning [32m200 [0m232.425 ms - 116[0m
+[0mPOST /users/getAllLength [32m200 [0m614.322 ms - 922[0m
+[0mPOST /admin/getServiceCategory [32m200 [0m206.546 ms - 451[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.140 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.958 ms - 0[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m206.882 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m204.081 ms - 54[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.153 ms - 0[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.149 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.146 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.117 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.129 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.096 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.140 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.277 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.135 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.157 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.105 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.134 ms - 0[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.107 ms - 0[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.145 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.151 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.184 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.135 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.150 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.140 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.121 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.136 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.102 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.114 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.122 ms - 0[0m
+newDate 11/16/2022
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m196.900 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m191.178 ms - 54[0m
+[0mPOST /users/getAllLength [32m200 [0m601.454 ms - 922[0m
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[]
+[0mPOST /users/getTotalEarning [32m200 [0m682.946 ms - 116[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m202.552 ms - 224[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m673.068 ms - 54[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m670.273 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m665.116 ms - 54[0m
+newDate 11/16/2022
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m201.926 ms - 348[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m193.092 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m199.322 ms - 224[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.575 ms - 348[0m
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[0mPOST /users/getTotalEarning [32m200 [0m230.722 ms - 116[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m201.097 ms - 54[0m
+[]
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m199.675 ms - 54[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m199.647 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m204.940 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m193.860 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m203.840 ms - 54[0m
+[0mPOST /users/getAllLength [32m200 [0m610.250 ms - 922[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m191.893 ms - 224[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m199.029 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.918 ms - 224[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.058 ms - 348[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.141 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.152 ms - 0[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m199.468 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.002 ms - 348[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.139 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.129 ms - 0[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m198.702 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m206.342 ms - 348[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m201.386 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m206.521 ms - 54[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.120 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.148 ms - 0[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m199.602 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m204.924 ms - 54[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.137 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.131 ms - 0[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m198.567 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m206.920 ms - 348[0m
+[0mPOST /vender/getLoginVender [32m200 [0m205.879 ms - 463[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m218.134 ms - 54[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m206.374 ms - 54[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m206.426 ms - 430[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m206.153 ms - 54[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m206.687 ms - 54[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m205.802 ms - 430[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.120 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.143 ms - 0[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m199.317 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m207.600 ms - 348[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.122 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.140 ms - 0[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m210.778 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m199.819 ms - 348[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.162 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.103 ms - 0[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m201.254 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m217.323 ms - 54[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.123 ms - 0[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.131 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.157 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.148 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.132 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.118 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.149 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.148 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.142 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.220 ms - 0[0m
+newDate 11/16/2022
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.142 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.122 ms - 0[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.136 ms - 0[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.131 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.114 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.145 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.144 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.133 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.129 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.138 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.133 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.405 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.132 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.139 ms - 0[0m
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[0mPOST /users/getTotalEarning [32m200 [0m248.808 ms - 116[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m198.637 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m193.843 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m204.567 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m200.138 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m207.899 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.606 ms - 348[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m192.107 ms - 224[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m201.140 ms - 224[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m199.459 ms - 348[0m
+newDate 11/16/2022
+[0mPOST /users/getAllLength [32m200 [0m623.294 ms - 922[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.944 ms - 54[0m
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[]
+[0mPOST /users/getTotalEarning [32m200 [0m226.145 ms - 116[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m217.722 ms - 54[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m211.558 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m198.579 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.970 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m193.382 ms - 224[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m208.371 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m203.664 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.850 ms - 224[0m
+[0mPOST /users/getAllLength [32m200 [0m599.449 ms - 922[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.590 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.396 ms - 348[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.194 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m1.527 ms - 0[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m198.284 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m206.073 ms - 348[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.133 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.102 ms - 0[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.261 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m205.014 ms - 54[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.132 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.129 ms - 0[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m199.736 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m205.131 ms - 54[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.158 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.144 ms - 0[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m203.535 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m208.168 ms - 348[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.175 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.125 ms - 0[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m206.020 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.543 ms - 348[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.138 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.123 ms - 0[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m199.366 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m205.294 ms - 54[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.134 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.152 ms - 0[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m206.301 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m198.733 ms - 54[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.124 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.192 ms - 0[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m199.371 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m208.882 ms - 54[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.136 ms - 0[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.136 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.118 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.132 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.126 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.127 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.188 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.178 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.166 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.137 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.127 ms - 0[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.139 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.513 ms - 0[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.373 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.146 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.163 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.175 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.134 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.175 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.135 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.166 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.161 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.192 ms - 0[0m
+newDate 11/16/2022
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.256 ms - 0[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m199.202 ms - 54[0m
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[]
+[]
+[0mPOST /users/getTotalEarning [32m200 [0m236.628 ms - 116[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m226.256 ms - 54[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m207.865 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m216.069 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m199.867 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.152 ms - 224[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m206.325 ms - 348[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m209.451 ms - 224[0m
+newDate 11/16/2022
+[0mPOST /users/getAllLength [32m200 [0m631.246 ms - 922[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m191.434 ms - 54[0m
+15/11/2022
+not found
+not found
+11/15/2022
+499
+499
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+not found
+not found
+499
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /users/getTotalEarning [32m200 [0m226.129 ms - 116[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m225.028 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m210.985 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m191.900 ms - 54[0m
+[0mPOST /users/getAllLength [32m200 [0m593.420 ms - 922[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m201.779 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.207 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m207.180 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m204.905 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[
+  {
+    _id: new ObjectId("63735a86eb004e76d0a127e3"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '2:53:18 pm' ],
+    VenderWorkDetails: [],
+    VenderDetails: [ [Object] ]
+  }
+]
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m198.367 ms - 224[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m211.189 ms - 224[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m208.555 ms - 348[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.768 ms - 54[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.168 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.157 ms - 0[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m205.227 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m200.466 ms - 348[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.161 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.141 ms - 0[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m199.051 ms - 54[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m205.235 ms - 348[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.179 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.317 ms - 0[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m202.985 ms - 54[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m203.009 ms - 348[0m
+[
+  {
+    _id: new ObjectId("63733afd87a685ecf0a2781f"),
+    totalPay: '499',
+    dateTime: [ '15/11/2022', '12:38:45 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m192.183 ms - 348[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m205.127 ms - 54[0m

@@ -1,0 +1,953 @@
+16/11/2022
+2023-01-16T09:15:29.187Z
+listening
+DB connect
+[0mPOST /users/getAllBanner [32m200 [0m5225.463 ms - 577[0m
+
+noo code
+undefined
+[0mPOST /users/getUserBookingCompleteStatus [32m200 [0m5299.926 ms - 83[0m
+[0mPOST /users/getUserSelectedCar [32m200 [0m5338.214 ms - 214[0m
+[0mPOST /admin/getServiceCategory [32m200 [0m5346.843 ms - 451[0m
+[]
+[0mPOST /users/getAddToCart_v1 [32m200 [0m6041.369 ms - 243[0m
+[]
+[0mPOST /users/getAllBookingHistory_v1 [32m200 [0m200.184 ms - 54[0m
+undefined
+[0mPOST /users/getUserBookingCompleteStatus [32m200 [0m198.715 ms - 83[0m
+[0mPOST /users/getUserSelectedCar [32m200 [0m194.652 ms - 214[0m
+[0mPOST /admin/getServiceCategory [32m200 [0m205.388 ms - 451[0m
+
+noo code
+[0mPOST /users/getAllBanner [32m200 [0m211.369 ms - 577[0m
+[]
+[0mPOST /users/getAddToCart_v1 [32m200 [0m1042.436 ms - 243[0m
+[0mPOST /users/getUserProfile [32m200 [0m206.359 ms - 543[0m
+[0mPOST /users/UpdateUserProfile [32m200 [0m442.332 ms - 534[0m
+[0mPOST /admin/getServiceSubCategoryWithCategoryId [32m200 [0m212.041 ms - 2142[0m
+[0mPOST /users/getAddtoCartCheckStatus [32m200 [0m214.485 ms - 61[0m
+[0mPOST /users/getFavorite [32m200 [0m201.152 ms - 54[0m
+[0mPOST /users/getService [32m200 [0m416.526 ms - 477[0m
+[0mPOST /users/addToCart [32m200 [0m437.471 ms - 179[0m
+[0mPOST /users/getAddtoCartCheckStatus [32m200 [0m207.384 ms - 85[0m
+
+noo code
+[
+  {
+    _id: new ObjectId("6374aa49cf372bc9e6f0e3b9"),
+    userId: new ObjectId("637231673b04616dce52d8ac"),
+    serviceId: new ObjectId("6332f5a7713c66391d1f4222"),
+    status: 0,
+    __v: 0,
+    userDetails: [ [Object] ],
+    serviceDetails: [ [Object] ]
+  }
+]
+0
+499
+[0mPOST /users/getAddToCart_v1 [32m200 [0m1056.975 ms - 468[0m
+[0mPOST /users/getUserPrimaryAddress [32m200 [0m209.837 ms - 54[0m
+1
+[
+  {
+    _id: new ObjectId("6374aa49cf372bc9e6f0e3b9"),
+    userId: new ObjectId("637231673b04616dce52d8ac"),
+    serviceId: new ObjectId("6332f5a7713c66391d1f4222"),
+    status: 0,
+    __v: 0
+  }
+]
+[
+  {
+    _id: new ObjectId("6372340e3b04616dce52da00"),
+    workshopName: 'AA Workshop',
+    ownerName: 'Avnit ',
+    phone: '+917990545063',
+    workshopAddress: 'ITFuturz, Althan, Vesu, Surat',
+    lat: '21.1408398',
+    long: '72.8031965',
+    gstImage: 'uploads/userDocument/1668429022108.png',
+    panCartImage: 'uploads/userDocument/1668429022141.png',
+    gumastadharaImage: 'uploads/userDocument/1668429022171.png',
+    venderStatus: 2,
+    __v: 0
+  }
+]
+0 getAll
+[object Object] data
+1
+{ workshopId: new ObjectId("6372340e3b04616dce52da00"), getKm: 0 }
+[ 0 ]
+0
+{
+  cartId: [ new ObjectId("6332f5a7713c66391d1f4222") ],
+  userId: new ObjectId("637231673b04616dce52d8ac"),
+  carBrand: new ObjectId("6346a4283eb42d7987df3dbe"),
+  carName: new ObjectId("6351105a9420e64bac352228"),
+  pickupDate: 'Thu, 17 Nov',
+  pickupTime: '10:00 AM',
+  dateTime: [ '16/11/2022', '2:46:11 pm' ],
+  status: 1,
+  trackBooking: 0,
+  bookingCompleteStatus: 1,
+  otp: '889329',
+  address: ' Bamroli - Althan Road, Bamroli - Althan Rd, Surat - 395007, Gujarat, India',
+  instruction: '',
+  name: 'Check',
+  phone: '+919898912345',
+  lat: '21.1408619',
+  long: '72.8032074',
+  totalPayAmount: '499',
+  _id: new ObjectId("6374aa5bcf372bc9e6f0e3c4"),
+  __v: 0
+}
+0
+nathi
+new ObjectId("637231673b04616dce52d8ac")
+{
+  _id: new ObjectId("6374aa49cf372bc9e6f0e3b9"),
+  userId: new ObjectId("637231673b04616dce52d8ac"),
+  serviceId: new ObjectId("6332f5a7713c66391d1f4222"),
+  status: 1,
+  __v: 0
+}
+data add {
+  cartId: [ new ObjectId("6332f5a7713c66391d1f4222") ],
+  userId: new ObjectId("637231673b04616dce52d8ac"),
+  carBrand: new ObjectId("6346a4283eb42d7987df3dbe"),
+  carName: new ObjectId("6351105a9420e64bac352228"),
+  pickupDate: 'Thu, 17 Nov',
+  pickupTime: '10:00 AM',
+  dateTime: [ '16/11/2022', '2:46:11 pm' ],
+  status: 1,
+  trackBooking: 0,
+  bookingCompleteStatus: 1,
+  otp: '889329',
+  address: ' Bamroli - Althan Road, Bamroli - Althan Rd, Surat - 395007, Gujarat, India',
+  instruction: '',
+  name: 'Check',
+  phone: '+919898912345',
+  lat: '21.1408619',
+  long: '72.8032074',
+  totalPayAmount: '499',
+  _id: new ObjectId("6374aa5bcf372bc9e6f0e3c4"),
+  __v: 0
+}
+[0mPOST /users/addNewBooking [32m200 [0m2780.411 ms - 607[0m
+{
+  _id: new ObjectId("6374aa5bcf372bc9e6f0e3c4"),
+  bookingCompleteStatus: 1
+}
+[0mPOST /users/getUserBookingCompleteStatus [32m200 [0m210.040 ms - 155[0m
+{
+  _id: new ObjectId("6374aa5bcf372bc9e6f0e3c4"),
+  bookingCompleteStatus: 1
+}
+[0mPOST /users/getUserBookingCompleteStatus [32m200 [0m208.719 ms - 155[0m
+
+noo code
+[0mPOST /admin/getServiceCategory [32m200 [0m207.878 ms - 451[0m
+[0mPOST /users/getUserSelectedCar [32m200 [0m196.262 ms - 214[0m
+[0mPOST /users/getAllBanner [32m200 [0m196.580 ms - 577[0m
+[]
+[0mPOST /users/getAddToCart_v1 [32m200 [0m1014.915 ms - 243[0m
+[0mPOST /users/getUserJobCartApprovedByUserId [32m200 [0m204.332 ms - 54[0m
+[0mPOST /users/getAllTrackBooking [32m200 [0m199.490 ms - 123[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m199.050 ms - 431[0m
+[0mPOST /vender/getVenderBookingOtpVerified [32m200 [0m213.522 ms - 617[0m
+[
+  {
+    _id: new ObjectId("6374aa5ccf372bc9e6f0e3c7"),
+    userId: new ObjectId("637231673b04616dce52d8ac"),
+    bookingId: new ObjectId("6374aa5bcf372bc9e6f0e3c4"),
+    venderId: new ObjectId("6372340e3b04616dce52da00"),
+    workshopStatus: 1,
+    serviceStatus: 0,
+    address: ' Bamroli - Althan Road, Bamroli - Althan Rd, Surat - 395007, Gujarat, India',
+    mrp: '1000',
+    currentMrp: '499',
+    totalPay: '499',
+    dateTime: [ '16/11/2022', '2:46:12 pm' ],
+    verified: 0,
+    __v: 0
+  }
+]
+{
+  _id: new ObjectId("6374aa5ccf372bc9e6f0e3c7"),
+  userId: new ObjectId("637231673b04616dce52d8ac"),
+  bookingId: new ObjectId("6374aa5bcf372bc9e6f0e3c4"),
+  venderId: new ObjectId("6372340e3b04616dce52da00"),
+  workshopStatus: 2,
+  serviceStatus: 2,
+  address: ' Bamroli - Althan Road, Bamroli - Althan Rd, Surat - 395007, Gujarat, India',
+  mrp: '1000',
+  currentMrp: '499',
+  totalPay: '499',
+  dateTime: [ '16/11/2022', '2:46:12 pm' ],
+  verified: 1,
+  __v: 0
+}
+[0mPOST /vender/addNewCarImage [32m200 [0m1641.566 ms - 504[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m201.436 ms - 54[0m
+[0mPOST /vender/UpdateVenderBookingStatus_v5 [32m200 [0m986.509 ms - 434[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m197.899 ms - 54[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m198.308 ms - 431[0m
+[0mPOST /users/getUserJobCartApprovedByUserId [32m200 [0m197.669 ms - 116[0m
+[0mPOST /users/getAllTrackBooking [32m200 [0m202.774 ms - 123[0m
+[
+  {
+    _id: new ObjectId("6374aa5bcf372bc9e6f0e3c4"),
+    cartId: [ new ObjectId("6332f5a7713c66391d1f4222") ],
+    userId: new ObjectId("637231673b04616dce52d8ac"),
+    carBrand: new ObjectId("6346a4283eb42d7987df3dbe"),
+    carName: new ObjectId("6351105a9420e64bac352228"),
+    pickupDate: 'Thu, 17 Nov',
+    pickupTime: '10:00 AM',
+    dateTime: [ '16/11/2022', '2:46:11 pm' ],
+    status: 1,
+    trackBooking: 2,
+    bookingCompleteStatus: 1,
+    otp: '889329',
+    address: ' Bamroli - Althan Road, Bamroli - Althan Rd, Surat - 395007, Gujarat, India',
+    instruction: '',
+    name: 'Check',
+    phone: '+919898912345',
+    lat: '21.1408619',
+    long: '72.8032074',
+    totalPayAmount: '499',
+    __v: 0
+  }
+]
+{
+  _id: new ObjectId("6374aa5ccf372bc9e6f0e3c7"),
+  userId: new ObjectId("637231673b04616dce52d8ac"),
+  bookingId: new ObjectId("6374aa5bcf372bc9e6f0e3c4"),
+  venderId: new ObjectId("6372340e3b04616dce52da00"),
+  workshopStatus: 2,
+  serviceStatus: 3,
+  address: ' Bamroli - Althan Road, Bamroli - Althan Rd, Surat - 395007, Gujarat, India',
+  mrp: '1000',
+  currentMrp: '499',
+  totalPay: '499',
+  dateTime: [ '16/11/2022', '2:46:12 pm' ],
+  verified: 1,
+  __v: 0
+}
+ee
+[0mPOST /vender/addNewJobCart [32m200 [0m1027.101 ms - 227[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m201.024 ms - 54[0m
+[0mPOST /vender/UpdateVenderBookingStatus_v5 [32m200 [0m1025.451 ms - 434[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m202.274 ms - 431[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m201.154 ms - 431[0m
+[0mPOST /users/getAllTrackBooking [32m200 [0m203.463 ms - 123[0m
+[0mPOST /users/getUserJobCartApprovedByUserId [32m200 [0m201.052 ms - 292[0m
+[
+  {
+    _id: new ObjectId("6374aa5bcf372bc9e6f0e3c4"),
+    cartId: [ new ObjectId("6332f5a7713c66391d1f4222") ],
+    userId: new ObjectId("637231673b04616dce52d8ac"),
+    carBrand: new ObjectId("6346a4283eb42d7987df3dbe"),
+    carName: new ObjectId("6351105a9420e64bac352228"),
+    pickupDate: 'Thu, 17 Nov',
+    pickupTime: '10:00 AM',
+    dateTime: [ '16/11/2022', '2:46:11 pm' ],
+    status: 1,
+    trackBooking: 2,
+    bookingCompleteStatus: 1,
+    otp: '889329',
+    address: ' Bamroli - Althan Road, Bamroli - Althan Rd, Surat - 395007, Gujarat, India',
+    instruction: '',
+    name: 'Check',
+    phone: '+919898912345',
+    lat: '21.1408619',
+    long: '72.8032074',
+    totalPayAmount: '499',
+    __v: 0
+  }
+]
+[
+  {
+    _id: new ObjectId("6374aa5ccf372bc9e6f0e3c7"),
+    userId: new ObjectId("637231673b04616dce52d8ac"),
+    bookingId: new ObjectId("6374aa5bcf372bc9e6f0e3c4"),
+    venderId: new ObjectId("6372340e3b04616dce52da00"),
+    workshopStatus: 2,
+    serviceStatus: 3,
+    address: ' Bamroli - Althan Road, Bamroli - Althan Rd, Surat - 395007, Gujarat, India',
+    mrp: '1000',
+    currentMrp: '499',
+    totalPay: '499',
+    dateTime: [ '16/11/2022', '2:46:12 pm' ],
+    verified: 1,
+    __v: 0
+  }
+]
+{
+  _id: new ObjectId("6374aa5bcf372bc9e6f0e3c4"),
+  cartId: [ new ObjectId("6332f5a7713c66391d1f4222") ],
+  userId: new ObjectId("637231673b04616dce52d8ac"),
+  carBrand: new ObjectId("6346a4283eb42d7987df3dbe"),
+  carName: new ObjectId("6351105a9420e64bac352228"),
+  pickupDate: 'Thu, 17 Nov',
+  pickupTime: '10:00 AM',
+  dateTime: [ '16/11/2022', '2:46:11 pm' ],
+  status: 1,
+  trackBooking: 3,
+  bookingCompleteStatus: 1,
+  otp: '889329',
+  address: ' Bamroli - Althan Road, Bamroli - Althan Rd, Surat - 395007, Gujarat, India',
+  instruction: '',
+  name: 'Check',
+  phone: '+919898912345',
+  lat: '21.1408619',
+  long: '72.8032074',
+  totalPayAmount: '499',
+  __v: 0
+}
+{
+  _id: new ObjectId("6374aa5ccf372bc9e6f0e3c7"),
+  userId: new ObjectId("637231673b04616dce52d8ac"),
+  bookingId: new ObjectId("6374aa5bcf372bc9e6f0e3c4"),
+  venderId: new ObjectId("6372340e3b04616dce52da00"),
+  workshopStatus: 2,
+  serviceStatus: 4,
+  address: ' Bamroli - Althan Road, Bamroli - Althan Rd, Surat - 395007, Gujarat, India',
+  mrp: '1000',
+  currentMrp: '499',
+  totalPay: '499',
+  dateTime: [ '16/11/2022', '2:46:12 pm' ],
+  verified: 1,
+  __v: 0
+}
+[0mPOST /users/updateUserJobCartApproved [32m200 [0m814.686 ms - 618[0m
+[0mPOST /users/getUserJobCartApprovedByUserId [32m200 [0m197.006 ms - 54[0m
+[0mPOST /users/getAllTrackBooking [32m200 [0m205.778 ms - 123[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m214.744 ms - 54[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m214.731 ms - 431[0m
+[0mPOST /vender/UpdateVenderBookingStatus_v5 [32m200 [0m1032.001 ms - 434[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m208.688 ms - 431[0m
+[0mPOST /vender/UpdateVenderBookingStatus_v5 [32m200 [0m1028.350 ms - 434[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m202.143 ms - 431[0m
+[0mPOST /users/getUserJobCartApprovedByUserId [32m200 [0m200.854 ms - 54[0m
+[0mPOST /users/getAllTrackBooking [32m200 [0m204.655 ms - 123[0m
+[0mPOST /vender/UpdateVenderBookingStatus_v5 [32m200 [0m1027.377 ms - 434[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m202.457 ms - 431[0m
+[0mPOST /users/getAllTrackBooking [32m200 [0m200.825 ms - 123[0m
+[0mPOST /users/getUserJobCartApprovedByUserId [32m200 [0m197.202 ms - 54[0m
+[0mPOST /vender/UpdateVenderBookingStatus_v5 [32m200 [0m1017.746 ms - 434[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m197.582 ms - 54[0m
+[0mPOST /users/getAllTrackBooking [31m500 [0m197.491 ms - 80[0m
+[0mPOST /users/getUserJobCartApprovedByUserId [32m200 [0m201.944 ms - 54[0m
+[0mPOST /users/getAllTrackBooking [31m500 [0m202.221 ms - 80[0m
+[0mPOST /users/getUserJobCartApprovedByUserId [32m200 [0m196.805 ms - 54[0m
+[]
+[0mPOST /users/getAllBookingHistory_v1 [32m200 [0m199.324 ms - 54[0m
+[
+  {
+    _id: new ObjectId("6374aa5bcf372bc9e6f0e3c4"),
+    pickupDate: 'Thu, 17 Nov',
+    pickupTime: '10:00 AM',
+    dateTime: [ '16/11/2022', '2:46:11 pm' ],
+    status: 2,
+    bookingCompleteStatus: 1,
+    address: ' Bamroli - Althan Road, Bamroli - Althan Rd, Surat - 395007, Gujarat, India',
+    instruction: '',
+    totalPayAmount: '499'
+  }
+]
+[0mPOST /users/getAllBookingHistory_v1 [32m200 [0m201.727 ms - 351[0m
+[]
+[0mPOST /users/getAllBookingHistory_v1 [32m200 [0m204.048 ms - 54[0m
+[0mOPTIONS /admin/getAllCarBrand [32m204 [0m1.080 ms - 0[0m
+[0mOPTIONS /admin/getAllCarType [32m204 [0m0.396 ms - 0[0m
+[0mOPTIONS /admin/getAllCarModel [32m204 [0m0.198 ms - 0[0m
+[0mOPTIONS /admin/getAllCarBrand [32m204 [0m0.183 ms - 0[0m
+[0mOPTIONS /admin/getAllCarModel [32m204 [0m0.186 ms - 0[0m
+[0mOPTIONS /admin/getAllCarType [32m204 [0m0.121 ms - 0[0m
+[0mPOST /admin/getAllCarBrand [32m200 [0m211.679 ms - 2918[0m
+[0mPOST /admin/getAllCarType [32m200 [0m203.474 ms - 901[0m
+[0mPOST /admin/getAllCarBrand [32m200 [0m205.963 ms - 2918[0m
+[0mPOST /admin/getAllCarType [32m200 [0m205.637 ms - 901[0m
+[0mPOST /admin/getAllCarModel [32m200 [0m854.809 ms - 117532[0m
+[0mPOST /admin/getAllCarModel [32m200 [0m878.212 ms - 117532[0m
+[0mGET /http:/realmotorsbackend.itfuturz.com/uploads/noImage.png [33m404 [0m18.431 ms - 1036[0m
+[0mPOST /users/getAllBanner [32m200 [0m198.805 ms - 577[0m
+
+noo code
+{
+  _id: new ObjectId("6374aa5bcf372bc9e6f0e3c4"),
+  bookingCompleteStatus: 1
+}
+[0mPOST /users/getUserBookingCompleteStatus [32m200 [0m198.442 ms - 155[0m
+[0mPOST /admin/getServiceCategory [32m200 [0m206.061 ms - 451[0m
+[0mPOST /users/getUserSelectedCar [32m200 [0m211.566 ms - 214[0m
+[]
+[0mPOST /users/getAddToCart_v1 [32m200 [0m1142.248 ms - 243[0m
+[0mPOST /users/getUserJobCartApprovedByUserId [32m200 [0m206.367 ms - 54[0m
+[0mPOST /users/getAllTrackBooking [31m500 [0m206.222 ms - 80[0m
+[0mOPTIONS /admin/getAllCarModel [32m204 [0m2.293 ms - 0[0m
+[0mOPTIONS /admin/getAllCarType [32m204 [0m0.185 ms - 0[0m
+[0mOPTIONS /admin/getAllCarBrand [32m204 [0m0.204 ms - 0[0m
+[0mPOST /admin/getAllCarBrand [32m200 [0m206.366 ms - 2918[0m
+[0mPOST /admin/getAllCarType [32m200 [0m207.470 ms - 901[0m
+[0mPOST /admin/getAllCarModel [32m200 [0m883.513 ms - 117532[0m
+[0mGET /http:/realmotorsbackend.itfuturz.com/uploads/noImage.png [33m404 [0m3.939 ms - 1036[0m
+[0mOPTIONS /admin/getAllCarModel [32m204 [0m0.208 ms - 0[0m
+[0mOPTIONS /admin/getAllCarType [32m204 [0m0.193 ms - 0[0m
+[0mOPTIONS /admin/getAllCarBrand [32m204 [0m0.375 ms - 0[0m
+[0mPOST /admin/getAllCarType [32m200 [0m205.289 ms - 901[0m
+[0mPOST /admin/getAllCarBrand [32m200 [0m206.408 ms - 2918[0m
+[0mPOST /admin/getAllCarModel [32m200 [0m874.612 ms - 117532[0m
+[0mGET /http:/realmotorsbackend.itfuturz.com/uploads/noImage.png [33m404 [0m2.061 ms - 1036[0m
+[0mOPTIONS /admin/getAllCarModel [32m204 [0m0.208 ms - 0[0m
+[0mOPTIONS /admin/getAllCarType [32m204 [0m0.201 ms - 0[0m
+[0mOPTIONS /admin/getAllCarBrand [32m204 [0m0.194 ms - 0[0m
+[0mPOST /admin/getAllCarType [32m200 [0m205.862 ms - 901[0m
+[0mPOST /admin/getAllCarBrand [32m200 [0m205.329 ms - 2918[0m
+[0mPOST /admin/getAllCarBrand [32m200 [0m205.798 ms - 2918[0m
+[0mPOST /admin/getAllCarModel [32m200 [0m892.461 ms - 117532[0m
+[0mGET /http:/realmotorsbackend.itfuturz.com/uploads/noImage.png [33m404 [0m6.268 ms - 1036[0m
+[0mOPTIONS /admin/getAllCarModel [32m204 [0m0.200 ms - 0[0m
+[0mOPTIONS /admin/getAllCarBrand [32m204 [0m0.161 ms - 0[0m
+[0mOPTIONS /admin/getAllCarType [32m204 [0m0.287 ms - 0[0m
+[0mPOST /admin/getAllCarBrand [32m200 [0m205.816 ms - 2918[0m
+[0mPOST /admin/getAllCarType [32m200 [0m205.978 ms - 901[0m
+[0mPOST /admin/getAllCarType [32m200 [0m206.492 ms - 901[0m
+[0mPOST /admin/getAllCarModel [32m200 [0m870.965 ms - 117532[0m
+[0mGET /http:/realmotorsbackend.itfuturz.com/uploads/noImage.png [33m404 [0m1.992 ms - 1036[0m
+[0mOPTIONS /admin/getAllCarBrand [32m204 [0m0.190 ms - 0[0m
+[0mOPTIONS /admin/getAllCarModel [32m204 [0m0.206 ms - 0[0m
+[0mOPTIONS /admin/getAllCarType [32m204 [0m0.189 ms - 0[0m
+[0mPOST /admin/getAllCarType [32m200 [0m215.749 ms - 901[0m
+[0mPOST /admin/getAllCarBrand [32m200 [0m216.440 ms - 2918[0m
+[0mPOST /admin/getAllCarModel [32m200 [0m881.183 ms - 117532[0m
+[0mGET /http:/realmotorsbackend.itfuturz.com/uploads/noImage.png [33m404 [0m1.385 ms - 1036[0m
+[0mPOST /vender/getVenderBookingList [32m200 [0m210.063 ms - 54[0m
+[0mPOST /users/getAllNotification [32m200 [0m209.728 ms - 6498[0m
+[0mPOST /users/getAllTrackBooking [31m500 [0m208.364 ms - 80[0m
+[0mPOST /users/getUserJobCartApprovedByUserId [32m200 [0m210.770 ms - 54[0m
+[0mPOST /users/getAllNotification [32m200 [0m207.966 ms - 6498[0m
+[]
+[0mPOST /users/getAllBookingHistory_v1 [32m200 [0m207.127 ms - 54[0m
+
+noo code
+[0mPOST /users/getAllBanner [32m200 [0m198.472 ms - 577[0m
+[0mPOST /admin/getServiceCategory [32m200 [0m212.202 ms - 451[0m
+[0mPOST /users/getUserSelectedCar [32m200 [0m210.577 ms - 214[0m
+{
+  _id: new ObjectId("6374aa5bcf372bc9e6f0e3c4"),
+  bookingCompleteStatus: 1
+}
+[0mPOST /users/getUserBookingCompleteStatus [32m200 [0m214.426 ms - 155[0m
+[]
+[0mPOST /users/getAddToCart_v1 [32m200 [0m1011.146 ms - 243[0m
+[0mOPTIONS /admin/getAllCarBrand [32m204 [0m0.291 ms - 0[0m
+[0mOPTIONS /admin/getCarModelByCarBrandId [32m204 [0m0.199 ms - 0[0m
+[0mOPTIONS /admin/getAllCarBrand [32m204 [0m0.207 ms - 0[0m
+[0mOPTIONS /admin/UpdateCarModel [32m204 [0m0.210 ms - 0[0m
+[0mOPTIONS /admin/getCarModelByCarBrandId [32m204 [0m0.188 ms - 0[0m
+[0mOPTIONS /admin/UpdateCarModel [32m204 [0m0.183 ms - 0[0m
+[0mPOST /admin/getAllCarBrand [32m200 [0m196.334 ms - 2918[0m
+[0mPOST /admin/getAllCarBrand [32m200 [0m206.444 ms - 2918[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m207.194 ms - 54[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m224.215 ms - 54[0m
+[0mPOST /admin/UpdateCarModel [32m200 [0m194.105 ms - 50[0m
+[0mPOST /admin/UpdateCarModel [32m200 [0m196.825 ms - 50[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m193.630 ms - 54[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m196.956 ms - 54[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m197.178 ms - 437[0m
+[0mOPTIONS /admin/getCarModelByCarBrandId [32m204 [0m0.209 ms - 0[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m198.365 ms - 3074[0m
+[0mOPTIONS /admin/getCarModelByCarBrandId [32m204 [0m0.514 ms - 0[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m196.833 ms - 829[0m
+[0mOPTIONS /admin/getCarModelByCarBrandId [32m204 [0m0.229 ms - 0[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m214.672 ms - 5343[0m
+[0mPOST /users/getAllFavoriteForUser [32m200 [0m197.322 ms - 54[0m
+[0mPOST /users/getUserSelectedCar [32m200 [0m198.535 ms - 214[0m
+[0mPOST /users/getAllBanner [32m200 [0m197.082 ms - 577[0m
+[0mPOST /admin/getServiceCategory [32m200 [0m193.067 ms - 451[0m
+[0mPOST /users/getAllTrackBooking [31m500 [0m197.328 ms - 80[0m
+[0mPOST /users/getUserJobCartApprovedByUserId [32m200 [0m209.305 ms - 54[0m
+[0mPOST /users/getAllNotification [32m200 [0m206.468 ms - 6498[0m
+[0mPOST /users/getAllTrackBooking [31m500 [0m204.225 ms - 80[0m
+[0mPOST /users/getUserJobCartApprovedByUserId [32m200 [0m197.030 ms - 54[0m
+[]
+[0mPOST /users/getAllBookingHistory_v1 [32m200 [0m198.439 ms - 54[0m
+undefined
+[0mPOST /users/getUserBookingCompleteStatus [32m200 [0m196.462 ms - 83[0m
+[0mPOST /admin/getServiceCategory [32m200 [0m196.463 ms - 451[0m
+[0mPOST /users/getAllBanner [32m200 [0m201.740 ms - 577[0m
+[0mPOST /users/getUserSelectedCar [32m200 [0m210.049 ms - 214[0m
+
+noo code
+[]
+[0mPOST /users/getAddToCart_v1 [32m200 [0m1041.421 ms - 243[0m
+
+noo code
+[]
+[0mPOST /admin/getServiceCategory [32m200 [0m195.605 ms - 451[0m
+[0mPOST /users/getAllBanner [32m200 [0m202.502 ms - 577[0m
+[0mPOST /users/getUserSelectedCar [32m200 [0m207.067 ms - 214[0m
+[0mPOST /users/getAddToCart_v1 [32m200 [0m1492.499 ms - 243[0m
+[0mPOST /users/getAllBanner [32m200 [0m209.650 ms - 577[0m
+[0mPOST /users/getUserSelectedCar [32m200 [0m208.677 ms - 214[0m
+
+noo code
+[0mPOST /admin/getServiceCategory [32m200 [0m196.462 ms - 451[0m
+undefined
+[0mPOST /users/getUserBookingCompleteStatus [32m200 [0m218.565 ms - 83[0m
+[]
+[0mPOST /users/getAddToCart_v1 [32m200 [0m1195.873 ms - 243[0m
+
+noo code
+[0mPOST /admin/getServiceCategory [32m200 [0m195.270 ms - 451[0m
+[0mPOST /users/getAllBanner [32m200 [0m209.160 ms - 577[0m
+undefined
+[0mPOST /users/getUserBookingCompleteStatus [32m200 [0m205.847 ms - 83[0m
+[0mPOST /users/getUserSelectedCar [32m200 [0m206.920 ms - 214[0m
+[]
+[0mPOST /users/getAddToCart_v1 [32m200 [0m1005.418 ms - 243[0m
+[0mPOST /users/updateUserBookingCompleteStatus_v5 [32m200 [0m1.406 ms - 67[0m
+[0mPOST /users/updateUserBookingCompleteStatus_v5 [32m200 [0m0.746 ms - 67[0m
+[0mPOST /users/updateUserBookingCompleteStatus_v5 [32m200 [0m0.615 ms - 67[0m
+[0mPOST /users/updateUserBookingCompleteStatus_v5 [32m200 [0m0.627 ms - 67[0m
+[0mPOST /users/updateUserBookingCompleteStatus_v5 [32m200 [0m199.546 ms - 50[0m
+[0mPOST /users/updateUserBookingCompleteStatus_v5 [32m200 [0m201.293 ms - 50[0m
+[0mPOST /users/updateUserBookingCompleteStatus_v5 [32m200 [0m194.487 ms - 50[0m
+[0mPOST /admin/getServiceSubCategoryWithCategoryId [32m200 [0m198.105 ms - 2142[0m
+[0mPOST /users/getFavorite [32m200 [0m198.121 ms - 54[0m
+[0mPOST /users/getAddtoCartCheckStatus [32m200 [0m206.004 ms - 61[0m
+[0mPOST /users/getService [32m200 [0m406.256 ms - 472[0m
+[0mPOST /users/addToCart [32m200 [0m410.392 ms - 179[0m
+[0mPOST /users/getAddtoCartCheckStatus [32m200 [0m201.736 ms - 85[0m
+
+noo code
+[
+  {
+    _id: new ObjectId("6374af92cf372bc9e6f0e594"),
+    userId: new ObjectId("637231673b04616dce52d8ac"),
+    serviceId: new ObjectId("6332f55b713c66391d1f4220"),
+    status: 0,
+    __v: 0,
+    userDetails: [ [Object] ],
+    serviceDetails: [ [Object] ]
+  }
+]
+0
+499
+[0mPOST /users/getAddToCart_v1 [32m200 [0m1017.231 ms - 463[0m
+[0mPOST /users/getUserPrimaryAddress [32m200 [0m201.800 ms - 54[0m
+1
+[
+  {
+    _id: new ObjectId("6374af92cf372bc9e6f0e594"),
+    userId: new ObjectId("637231673b04616dce52d8ac"),
+    serviceId: new ObjectId("6332f55b713c66391d1f4220"),
+    status: 0,
+    __v: 0
+  }
+]
+[
+  {
+    _id: new ObjectId("6372340e3b04616dce52da00"),
+    workshopName: 'AA Workshop',
+    ownerName: 'Avnit ',
+    phone: '+917990545063',
+    workshopAddress: 'ITFuturz, Althan, Vesu, Surat',
+    lat: '21.1408398',
+    long: '72.8031965',
+    gstImage: 'uploads/userDocument/1668429022108.png',
+    panCartImage: 'uploads/userDocument/1668429022141.png',
+    gumastadharaImage: 'uploads/userDocument/1668429022171.png',
+    venderStatus: 2,
+    __v: 0
+  }
+]
+0 getAll
+[object Object] data
+1
+{ workshopId: new ObjectId("6372340e3b04616dce52da00"), getKm: 0 }
+[ 0 ]
+0
+{
+  cartId: [ new ObjectId("6332f55b713c66391d1f4220") ],
+  userId: new ObjectId("637231673b04616dce52d8ac"),
+  carBrand: new ObjectId("6346a4283eb42d7987df3dbe"),
+  carName: new ObjectId("6351105a9420e64bac352228"),
+  pickupDate: 'Thu, 17 Nov',
+  pickupTime: '10:00 AM',
+  dateTime: [ '16/11/2022', '3:08:43 pm' ],
+  status: 1,
+  trackBooking: 0,
+  bookingCompleteStatus: 1,
+  otp: '944961',
+  address: ' Bamroli - Althan Road, Bamroli - Althan Rd, Surat - 395007, Gujarat, India',
+  instruction: '',
+  name: 'Check',
+  phone: '+919898912345',
+  lat: '21.1408476',
+  long: '72.8032068',
+  totalPayAmount: '499',
+  _id: new ObjectId("6374afa3cf372bc9e6f0e59f"),
+  __v: 0
+}
+0
+nathi
+new ObjectId("637231673b04616dce52d8ac")
+{
+  _id: new ObjectId("6374af92cf372bc9e6f0e594"),
+  userId: new ObjectId("637231673b04616dce52d8ac"),
+  serviceId: new ObjectId("6332f55b713c66391d1f4220"),
+  status: 1,
+  __v: 0
+}
+data add {
+  cartId: [ new ObjectId("6332f55b713c66391d1f4220") ],
+  userId: new ObjectId("637231673b04616dce52d8ac"),
+  carBrand: new ObjectId("6346a4283eb42d7987df3dbe"),
+  carName: new ObjectId("6351105a9420e64bac352228"),
+  pickupDate: 'Thu, 17 Nov',
+  pickupTime: '10:00 AM',
+  dateTime: [ '16/11/2022', '3:08:43 pm' ],
+  status: 1,
+  trackBooking: 0,
+  bookingCompleteStatus: 1,
+  otp: '944961',
+  address: ' Bamroli - Althan Road, Bamroli - Althan Rd, Surat - 395007, Gujarat, India',
+  instruction: '',
+  name: 'Check',
+  phone: '+919898912345',
+  lat: '21.1408476',
+  long: '72.8032068',
+  totalPayAmount: '499',
+  _id: new ObjectId("6374afa3cf372bc9e6f0e59f"),
+  __v: 0
+}
+[0mPOST /users/addNewBooking [32m200 [0m2821.894 ms - 607[0m
+{
+  _id: new ObjectId("6374afa3cf372bc9e6f0e59f"),
+  bookingCompleteStatus: 1
+}
+[0mPOST /users/getUserBookingCompleteStatus [32m200 [0m212.805 ms - 155[0m
+
+noo code
+{
+  _id: new ObjectId("6374afa3cf372bc9e6f0e59f"),
+  bookingCompleteStatus: 1
+}
+[0mPOST /users/getUserSelectedCar [32m200 [0m206.442 ms - 214[0m
+[0mPOST /users/getUserBookingCompleteStatus [32m200 [0m195.962 ms - 155[0m
+[0mPOST /users/getAllBanner [32m200 [0m204.026 ms - 577[0m
+[0mPOST /admin/getServiceCategory [32m200 [0m209.451 ms - 451[0m
+[]
+[0mPOST /users/getAddToCart_v1 [32m200 [0m986.675 ms - 243[0m
+[0mPOST /users/updateUserBookingCompleteStatus_v5 [32m200 [0m397.371 ms - 609[0m
+[0mPOST /users/getAllTrackBooking [32m200 [0m194.623 ms - 123[0m
+[0mPOST /users/getUserJobCartApprovedByUserId [32m200 [0m205.793 ms - 54[0m
+[0mPOST /users/updateUserBookingCompleteStatus_v5 [32m200 [0m418.545 ms - 609[0m
+[
+  {
+    _id: new ObjectId("6374afa3cf372bc9e6f0e59f"),
+    pickupDate: 'Thu, 17 Nov',
+    pickupTime: '10:00 AM',
+    dateTime: [ '16/11/2022', '3:08:43 pm' ],
+    status: 1,
+    bookingCompleteStatus: 0,
+    address: ' Bamroli - Althan Road, Bamroli - Althan Rd, Surat - 395007, Gujarat, India',
+    instruction: '',
+    totalPayAmount: '499'
+  }
+]
+[0mPOST /users/getAllBookingHistory_v1 [32m200 [0m210.535 ms - 351[0m
+
+noo code
+{
+  _id: new ObjectId("6374afa3cf372bc9e6f0e59f"),
+  bookingCompleteStatus: 0
+}
+[0mPOST /admin/getServiceCategory [32m200 [0m220.366 ms - 451[0m
+[0mPOST /users/getUserBookingCompleteStatus [32m200 [0m231.457 ms - 155[0m
+[0mPOST /users/getUserSelectedCar [32m200 [0m226.422 ms - 214[0m
+[0mPOST /users/getAllBanner [32m200 [0m210.930 ms - 577[0m
+[]
+[0mPOST /users/getAddToCart_v1 [32m200 [0m992.461 ms - 243[0m
+
+noo code
+[]
+[0mPOST /users/getAddToCart_v1 [32m200 [0m982.190 ms - 243[0m
+[0mPOST /admin/getServiceCategory [32m200 [0m197.524 ms - 451[0m
+[0mPOST /users/getUserSelectedCar [32m200 [0m205.986 ms - 214[0m
+[0mPOST /users/getAllBanner [32m200 [0m202.887 ms - 577[0m
+[0mPOST /users/updateUserBookingCompleteStatus_v5 [32m200 [0m418.396 ms - 609[0m
+[
+  {
+    _id: new ObjectId("6374afa3cf372bc9e6f0e59f"),
+    pickupDate: 'Thu, 17 Nov',
+    pickupTime: '10:00 AM',
+    dateTime: [ '16/11/2022', '3:08:43 pm' ],
+    status: 1,
+    bookingCompleteStatus: 1,
+    address: ' Bamroli - Althan Road, Bamroli - Althan Rd, Surat - 395007, Gujarat, India',
+    instruction: '',
+    totalPayAmount: '499'
+  }
+]
+[0mPOST /users/getAllBookingHistory_v1 [32m200 [0m214.403 ms - 351[0m
+
+noo code
+{
+  _id: new ObjectId("6374afa3cf372bc9e6f0e59f"),
+  bookingCompleteStatus: 1
+}
+[0mPOST /users/getAllBanner [32m200 [0m198.716 ms - 577[0m
+[0mPOST /users/getUserBookingCompleteStatus [32m200 [0m207.150 ms - 155[0m
+[0mPOST /admin/getServiceCategory [32m200 [0m207.128 ms - 451[0m
+[0mPOST /users/getUserSelectedCar [32m200 [0m195.086 ms - 214[0m
+[]
+[0mPOST /users/getAddToCart_v1 [32m200 [0m1015.926 ms - 243[0m
+[0mPOST /users/getAllTrackBooking [32m200 [0m196.006 ms - 123[0m
+[0mPOST /users/getUserJobCartApprovedByUserId [32m200 [0m203.134 ms - 54[0m
+[0mOPTIONS /admin/getCarModelByCarBrandId [32m204 [0m0.188 ms - 0[0m
+[0mPOST /admin/getCarModelByCarBrandId [32m200 [0m219.641 ms - 1743[0m
+[0mOPTIONS /admin/getAllCarType [32m204 [0m0.138 ms - 0[0m
+[0mOPTIONS /admin/getAllCarType [32m204 [0m0.145 ms - 0[0m
+[0mPOST /admin/getAllCarType [32m200 [0m196.650 ms - 901[0m
+[0mPOST /admin/getAllCarType [32m200 [0m201.542 ms - 901[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.214 ms - 0[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.126 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.170 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.142 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.121 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.182 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.139 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.193 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.085 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.151 ms - 0[0m
+[0mOPTIONS /users/getTotalEarning [32m204 [0m0.152 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.102 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.118 ms - 0[0m
+[0mOPTIONS /users/getAllLength [32m204 [0m0.163 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.150 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.777 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.127 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.483 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.361 ms - 0[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.121 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.349 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.137 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.106 ms - 0[0m
+[0mOPTIONS /admin/getBookingHistory [32m204 [0m0.160 ms - 0[0m
+newDate 11/16/2022
+16/11/2022
+not found
+11/15/2022
+not found
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[]
+[]
+[0mPOST /users/getTotalEarning [32m200 [0m1342.583 ms - 112[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m272.081 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m272.975 ms - 54[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m282.466 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m278.394 ms - 54[0m
+[0mPOST /users/getAllLength [32m200 [0m1550.415 ms - 922[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m207.980 ms - 54[0m
+[
+  {
+    _id: new ObjectId("6374afa4cf372bc9e6f0e5a2"),
+    totalPay: '499',
+    dateTime: [ '16/11/2022', '3:08:44 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m195.585 ms - 54[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m208.864 ms - 348[0m
+[
+  {
+    _id: new ObjectId("6374afa4cf372bc9e6f0e5a2"),
+    totalPay: '499',
+    dateTime: [ '16/11/2022', '3:08:44 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m205.856 ms - 348[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m202.396 ms - 54[0m
+newDate 11/16/2022
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m208.898 ms - 54[0m
+16/11/2022
+not found
+11/15/2022
+not found
+15/11/2022
+14/11/2022
+13/11/2022
+12/11/2022
+11/11/2022
+10/11/2022
+09/11/2022
+[
+  '15/11/2022',
+  '14/11/2022',
+  '13/11/2022',
+  '12/11/2022',
+  '11/11/2022',
+  '10/11/2022',
+  '09/11/2022'
+]
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[
+  '16/11/2022', '15/11/2022', '14/11/2022',
+  '13/11/2022', '12/11/2022', '11/11/2022',
+  '10/11/2022', '09/11/2022', '08/11/2022',
+  '07/11/2022', '06/11/2022', '05/11/2022',
+  '04/11/2022', '03/11/2022', '02/11/2022',
+  '01/11/2022', '31/10/2022', '30/10/2022',
+  '29/10/2022', '28/10/2022', '27/10/2022',
+  '26/10/2022', '25/10/2022', '24/10/2022',
+  '23/10/2022', '22/10/2022', '21/10/2022',
+  '20/10/2022', '19/10/2022', '18/10/2022'
+]
+499
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+[]
+[0mPOST /users/getTotalEarning [32m200 [0m258.435 ms - 112[0m
+[0mPOST /admin/getBookingHistory [32m200 [0m246.105 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m250.349 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m234.819 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m194.489 ms - 54[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m203.369 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m197.612 ms - 54[0m
+[
+  {
+    _id: new ObjectId("6374afa4cf372bc9e6f0e5a2"),
+    totalPay: '499',
+    dateTime: [ '16/11/2022', '3:08:44 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m207.523 ms - 348[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m207.293 ms - 54[0m
+[0mPOST /users/getAllLength [32m200 [0m652.381 ms - 922[0m
+[]
+[0mPOST /admin/getBookingHistory [32m200 [0m202.962 ms - 54[0m
+[
+  {
+    _id: new ObjectId("6374afa4cf372bc9e6f0e5a2"),
+    totalPay: '499',
+    dateTime: [ '16/11/2022', '3:08:44 pm' ],
+    VenderWorkDetails: [ [Object] ],
+    VenderDetails: [ [Object] ]
+  }
+]
+[0mPOST /admin/getBookingHistory [32m200 [0m207.814 ms - 348[0m
+[0mOPTIONS /admin/getAllDataByServiceStatus [32m204 [0m0.156 ms - 0[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m205.846 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m206.488 ms - 54[0m
+[0mPOST /admin/getAllDataByServiceStatus [32m200 [0m206.429 ms - 54[0m

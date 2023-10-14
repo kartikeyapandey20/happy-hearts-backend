@@ -1,0 +1,106 @@
+Happy Hearts API Documentation
+
+Total 5 Days for this apis
+------------------------------------------------------------------------------------------------------------------
+//USER PROFILE RELATED API
+-----------------------------------------------------------------------------------------------------------------------
+
+1.Sign Up Api - POST API
+
+Body requirements are:
+
+(parents)First Name - String
+(parents)Last Name - String
+phone Number - String
+Email Id - String
+Child Name - String
+How Old is your child ? - Number
+
+there will be 4 status in this
+
+status - 0 - 0 to 9 years
+status - 1 - 9 to 13 years
+status - 2 - 13+ years
+status - 3 - parents
+
+2.Login Api - PORT API
+
+Body requirements : 
+phone Number - String
+
+4.User Profile Updates - PUT API
+
+Body requirements:
+
+Name - String 
+Email - String
+phone Number - String
+Address - String
+
+
+5.Add child - POST API
+
+Body requirements : 
+
+Child Name
+How Old is your child ? - Number
+
+there will be 4 status in this
+
+status - 0 - 0 to 9 years
+status - 1 - 9 to 13 years
+status - 2 - 13+ years
+status - 3 - parents
+
+6.Get User Profile - GET API 
+
+Body requirements :
+
+User ID - String
+
+7.Contact us - POST API
+
+Body requirements :
+
+Name - String
+phone No -  String  
+Message - String 
+
+---------------------------------------------------------------------------------------------------------
+//IN APP FEATURE
+---------------------------------------------------------------------------------------------------------
+8.Get Subscription - GET API
+
+No Body requirements
+
+9.Add Subscription to User - POST API
+
+Body requirements : 
+
+10.Get User Subscription - GET API
+
+
+UserId - String 
+Subscription  - Subscription Data
+
+10.Notification - GET API
+
+11.Get Categgory
+
+12.GetAudioList /ALL/Happy at Home / When With Friends / How can i feel better/My School Days
+
+13.GetAudio
+
+14.AddAudio
+
+15.UpdateAudio
+
+16.DeleteAudio
+
+14.Complete Audio
+
+15.Pending Audio 
+
+16.Add TO Favourite
+
+17.Get Add to Favourite

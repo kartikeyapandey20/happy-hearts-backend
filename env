@@ -1,0 +1,4 @@
+#MongoDB Credentials
+#new command helo
+HOST=mongodb+srv://MyJini:PCDIGITAL%402021@cluster0.rrckk.mongodb.net/HappyHearts?authSource=admin&replicaSet=atlas-n4l3qy-shard-0&readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=true
+TOKEN="7mm9j8Y9u-xDjdXQ017doplMafPuHI3-mSSQt8Qm5xf4UTeKfq"

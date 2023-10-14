@@ -1,0 +1,80 @@
+following schema will be made 
+
+
+this is used to store the data of the user
+User schema :-
+
+    first name 
+    last name
+    mobile number 
+    emailId
+    address    
+    child
+    subscription
+    
+this is used to store the child and status of the child
+child schema :-
+    name
+    status
+    UserId
+
+there will be 4 status in this
+
+status - 0 - 0 to 9 years
+status - 1 - 9 to 13 years
+status - 2 - 13+ years
+status - 3 - parents
+    
+this is used to store audio and all the detail of the audio
+audio schema : 
+    audioName
+    audioUrl
+    audioImage
+    audioDuration
+    audioDisCription
+
+this is catgeory schema in which we will store the catgeory and audio
+category schema
+    catgeoryName
+    audio
+
+this is used to track the audio progress of the user
+UserAudioProgress
+    UserId
+    isFavourite
+    AudioId
+    Progress
+    Timestamp
+    isCompleted
+
+this is used to store the issue faced by the user
+contactus schema 
+    name
+    phone
+    Message
+
+this is used to send notification
+notification schema
+    description 
+    UserId
+
+this is favourite schema which used to store all the facvourite audio of user
+favourite schema
+    UserId
+    UserAudioProgress
+
+subscription schema
+    childId
+    subscriptionName
+    subscriptionDescription
+    price
+    Category
+    Duration
+add subscription schema
+    UserId
+    subscription
+    buyDate
+    expDate
+review schema
+    UserId
+    rating 
