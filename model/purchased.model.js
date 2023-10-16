@@ -21,6 +21,10 @@ const Purchased = new mongoose.Schema({
     },
     expDate : {
         type : String
+    },
+    isFavourite :{
+        type : Boolean,
+        default :  false
     }
 })
 

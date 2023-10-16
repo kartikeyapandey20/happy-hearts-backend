@@ -6,7 +6,7 @@ const Subscription = require("../model/subscription.model");
 const Category = require("../model/category.model");
 const Purchased = require("../model/purchased.model");
 const UserSubscription = require("../model/addSubscription.model");
-
+const Favourite  = require("../model/favourite.model")
 //this is signup api function for adding new user
 async function signUp(req, res) {
     try {
@@ -120,38 +120,6 @@ async function login(req, res) {
     }
 }
 
-//this is used to update the user Detail
-async function updateUser(req, res) {
-    try {
-        const { userId, firstName, lastName, mobileNumber, email } = req.body;
-
-        // Find the user by id
-        const user = await User.findById(userId);
-        if (!user) {
-            return res.status(404).json({ error: 'User not found' });
-        }
-
-        // Update the user fields
-        if (firstName && firstName !== "") {
-            user.firstName = firstName;
-        }
-        if (lastName && lastName !== "") {
-            user.lastName = lastName;
-        }
-        if (mobileNumber && mobileNumber !== "") {
-            user.mobileNumber = mobileNumber;
-        }
-        if (email && email !== "") {
-            user.email = email;
-        }
-
-        // Save the updated user to the database
-        const savedUser = await user.save();
-        res.status(200).json({ message: 'User updated successfully', user: savedUser });
-    } catch (err) {
-        res.status(500).json({ error: err.message });
-    }
-}
 
 //this is used to get the user detail 
 async function getUserDetail(req, res) {
@@ -463,19 +431,6 @@ async function getAllCategoriesWithPurchaseInfo(req, res) {
     }
   }
   
-  
-  
-  
-  
-  
-  
-
-  
-  
-
-  
-  
-  
 async function deleteUser(req, res) {
     try {
         const { userId } = req.body;
@@ -494,15 +449,18 @@ async function deleteUser(req, res) {
     }
 
 }
+
+
+
+
 module.exports = {
     signUp,
     addChildToUser,
     login,
-    updateUser,
     getUserDetail,
     addContactUs,
     userSubscription,
     getUserSubscription,
     deleteUser,
-    getAllCategoriesWithPurchaseInfo
+    getAllCategoriesWithPurchaseInfo,
 }
