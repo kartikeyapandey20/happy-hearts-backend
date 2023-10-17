@@ -86,7 +86,7 @@ userRouter.put("/updateUser", upload.fields([
     if (req.files.userImage) {
       console.log("this is console");
       const userImageUrl =
-        "/uploads/userImages/userImage" + req.files.userImage[0].filename;
+        "/uploads/userImages/userImage/" + req.files.userImage[0].filename;
       userImage = userImageUrl;
       // console.log(userImage);
     }
@@ -129,7 +129,7 @@ userRouter.put("/updateUser", upload.fields([
 
 userRouter.get("/uploads/userImages/userImage/:filename", (req, res) => {
   const { filename } = req.params;
-  const filePath = path.join(__dirname, "../uploads/userImages/userImage", filename);
+  const filePath = path.join(__dirname, "../uploads/userImages/userImage/", filename);
 
   // Send the audio file as a response
   res.sendFile(filePath);
