@@ -129,11 +129,18 @@ userRouter.put("/updateUser", upload.fields([
 
 userRouter.get("/uploads/userImages/userImage/:filename", (req, res) => {
   const { filename } = req.params;
-  const filePath = path.join(__dirname, "../uploads/userImages/userImage/", filename);
+  const filePath = path.join(__dirname, "../uploads/userImages/userImage", filename);
 
-  // Send the audio file as a response
-  res.sendFile(filePath);
+  // Check if the file exists
+  if (fs.existsSync(filePath)) {
+    // Send the file as a response
+    res.sendFile(filePath);
+  } else {
+    // File not found, send an error response
+    res.status(404).send("File not found");
+  }
 });
+
 //this is a route for sign up
 userRouter.post("/signUp", userController.signUp);
 

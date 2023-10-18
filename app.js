@@ -39,6 +39,8 @@ app.get("/",(req,res) =>{
 app.use('/user',userRouter);
 app.use("/admin",adminRouter);
 app.use("/audio",audioRouter);
+app.use("/uploads", express.static(path.join(__dirname, "uploads")));
+
 app.listen(process.env.PORT, () => {
     console.log("listening");
   });
