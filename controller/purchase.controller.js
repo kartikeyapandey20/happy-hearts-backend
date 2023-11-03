@@ -21,7 +21,7 @@ async function addPurchase(req, res) {
     if(get.length > 0)
     {
       return res.status(204).json({
-        IsSuccess: true,
+        IsSuccess: false,
         message: "Audio Already Purchased",
       });
     }
