@@ -18,11 +18,9 @@ async function addPurchase(req, res) {
       },
   ]);
   console.debug(get);
-    const getData = Purchased.find({userId : new mongoose.Types.ObjectId(userId) , childId : new mongoose.Types.ObjectId(childId), audioId : new mongoose.Types.ObjectId(audioId)})
-    // console.debug(getData)
     if(get.length > 0)
     {
-      return res.status(200).json({
+      return res.status(204).json({
         IsSuccess: true,
         message: "Audio Already Purchased",
       });
