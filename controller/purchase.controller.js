@@ -8,7 +8,25 @@ async function addPurchase(req, res) {
     const currentDate = new Date();
     const expirationDate = new Date();
     expirationDate.setDate(currentDate.getDate() + parseInt(duration));
-
+    const get = await Purchased.aggregate([
+      {
+          $match: {
+            userId : new mongoose.Types.ObjectId(userId) ,
+            childId : new mongoose.Types.ObjectId(childId),
+            audioId : new mongoose.Types.ObjectId(audioId)
+          },
+      },
+  ]);
+  console.debug(get);
+    const getData = Purchased.find({userId : new mongoose.Types.ObjectId(userId) , childId : new mongoose.Types.ObjectId(childId), audioId : new mongoose.Types.ObjectId(audioId)})
+    // console.debug(getData)
+    if(get.length > 0)
+    {
+      return res.status(200).json({
+        IsSuccess: true,
+        message: "Audio Already Purchased",
+      });
+    }
     const purchase = new Purchased({
       userId: new mongoose.Types.ObjectId(userId),
       audioId: new mongoose.Types.ObjectId(audioId),
