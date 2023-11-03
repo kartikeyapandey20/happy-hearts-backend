@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const ActivityHistory = require('../model/activityHistory.model');
 async function addPurchase(req, res) {
   try {
-    const { userId, childId, audioId, duration } = req.body;
+    const { userId, childId, audioId, duration,paymentId } = req.body;
 
     const currentDate = new Date();
     const expirationDate = new Date();
@@ -16,6 +16,7 @@ async function addPurchase(req, res) {
       duration: duration,
       buyDate: currentDate.toISOString(),
       expDate: expirationDate.toISOString(),
+      paymentId : paymentId
     });
 
     await purchase.save();

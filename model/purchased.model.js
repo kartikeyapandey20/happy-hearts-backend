@@ -25,6 +25,10 @@ const Purchased = new mongoose.Schema({
     isFavourite :{
         type : Boolean,
         default :  false
+    },
+    paymentId : {
+        type : String,
+        require : true
     }
 })
 
