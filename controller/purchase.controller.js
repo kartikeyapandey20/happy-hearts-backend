@@ -69,8 +69,9 @@ async function findAudioPurchaseStatus(req, res) {
 
     // If a purchase record is found, the audio has been purchased; otherwise, it hasn't.
     const isPurchased = purchase !== null;
-
-    if (isPurchased) {
+    const get = await ActivityHistory.find({userId : new mongoose.Types.ObjectId(userId),audioId : new mongoose.Types.ObjectId(audioId),childId : new mongoose.Types.ObjectId(childId)})
+    if (isPurchased && get.length==0) {
+      console.log("this is executed")
       const activityHistory = new ActivityHistory({
         userId: new mongoose.Types.ObjectId(userId),
         audioId: new mongoose.Types.ObjectId(audioId),
