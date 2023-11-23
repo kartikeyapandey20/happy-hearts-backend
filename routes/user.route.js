@@ -147,6 +147,9 @@ userRouter.post("/signUp", userController.signUp);
 //this is used to add child after the sign up
 userRouter.put("/addChildToUser", userController.addChildToUser);
 
+//this is use to update the child Id is user profile
+userRouter.put("/updateChildId",userController.updateChildIdInUser);
+
 //this is used to login the user
 userRouter.post("/login", userController.login);
 
@@ -185,5 +188,6 @@ userRouter.delete("/deleteUser", userController.deleteUser);
 
 //this is use to add favourite audio
 userRouter.post("/addFavourite", favoriteController.addFavourite);
+
 
 module.exports = userRouter;

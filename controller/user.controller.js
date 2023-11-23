@@ -89,6 +89,28 @@ async function addChildToUser(req, res) {
     }
 }
 
+async function updateChildIdInUser(req, res) {
+    try {
+
+        const { userId, childId } = req.body;
+
+        // Find the user by id and update the child data
+        const updatedUser = await User.findByIdAndUpdate(userId, { child: new mongoose.Types.ObjectId(childId) }, { new: true });
+
+        if (!updatedUser) {
+            return res.status(404).json({ error: 'User not found' });
+        }
+
+        res.status(200).json({
+            IsSuccess: true,
+            message: 'Child updated successfully',
+            Data: updatedUser
+        });
+    } catch (err) {
+        res.status(500).json({ error: err.message });
+    }
+}
+
 //this is a login function 
 async function login(req, res) {
     try {
@@ -463,4 +485,5 @@ module.exports = {
     getUserSubscription,
     deleteUser,
     getAllCategoriesWithPurchaseInfo,
+    updateChildIdInUser
 }
