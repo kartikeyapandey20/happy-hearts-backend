@@ -157,7 +157,7 @@ userRouter.get("/getUser", userController.getUserDetail);
 userRouter.post("/addChild", childController.addChild);
 
 //this is use to get the child of the user
-userRouter.get("/getUserChildren", childController.getUserChildren);
+userRouter.post("/getUserChildren", childController.getUserChildren);
 
 //this is use to send the request to admin if any
 userRouter.post("/addContactUs", userController.addContactUs);

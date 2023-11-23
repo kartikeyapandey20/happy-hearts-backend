@@ -100,7 +100,6 @@ async function getActivityHistory(req, res) {
     const query = {
       userId: new mongoose.Types.ObjectId(userId),
       childId: new mongoose.Types.ObjectId(childId),
-      audioId: new mongoose.Types.ObjectId(audioId)
     };
 
     // Find the matching activity history records and populate the 'audioId' field
